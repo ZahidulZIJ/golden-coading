@@ -78,3 +78,17 @@ section{ display: flex;}
     background-repeat: no-repeat;
     background-size: 180px 150px;}
 
+    /* this is section three */
+
+.three{ background-image: url(images/shapes/shape-1.png); 
+         background-repeat: no-repeat;
+        background-position: left ;
+        background-size: 20%;
+        margin-left: 50px; }
+.three img{height:500px;
+           margin-left: 100px;}
+.half-three{ margin-left: 100px;
+             margin-top: 0px;
+             width: 45%;}
+
+
