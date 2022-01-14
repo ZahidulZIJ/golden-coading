@@ -83,10 +83,10 @@ section{ display: flex;}
 .three{ background-image: url(images/shapes/shape-1.png); 
          background-repeat: no-repeat;
         background-position: left ;
-        background-size: 20%;
-        margin-left: 50px; }
+        background-size: 17%;
+        margin-left: 87px; }
 .three img{height:500px;
-           margin-left: 100px;}
+           margin-left: 80px;}
 .half-three{ margin-left: 100px;
              margin-top: 0px;
              width: 45%;}
@@ -106,11 +106,17 @@ section{ display: flex;}
            margin-bottom: 140px;}
 
 .four{ margin-top:150px;
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-position: right bottom;
-    background-size: 15%;
-    }
+       background-image: url(images/shapes/shape-1.png);
+       background-repeat: no-repeat;
+       background-position: right bottom;
+       background-size: 15%;}
 
-
-
+    /* this is foot section  */
+.last-foot{ margin-top:100px;
+          text-align: center;
+           color:whitesmoke;
+           background-color:black ;
+            padding-bottom: 35px;
+           padding-top: 10px;
+           font-style: italic;}
+.last-foot p{ color:#b2bec3 ;}
