@@ -92,16 +92,25 @@ section{ display: flex;}
              width: 45%;}
     
 /* this is section four */
-.four{ display: flex;}
+.four{ display: flex;
+      margin-right: 100px;
+      ;}
 .half-four{text-align: left;
            margin-left: 245px;
-           margin-top: 100px;
-         width: 40%;}
+           width: 40%;}
 .four img{ display: flex;
-           margin-top: 100px;
+           margin-right: 100px;
            border-radius: 40PX;
            width: 40%;
-           margin-left: 30px;}
+           margin-left: 100px;
+           margin-bottom: 140px;}
+
+.four{ margin-top:150px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 15%;
+    }
 
 
 
